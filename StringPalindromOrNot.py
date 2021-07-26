@@ -2,4 +2,4 @@ my_string=input("Enter string:")
 if(my_string==my_string[::-1]):
    print("The string is a palindrome")
 else:
-   print("The string is not a palindrome")
+   print("The string is not2 a palindrome")
